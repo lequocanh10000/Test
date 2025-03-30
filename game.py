@@ -141,5 +141,5 @@ while running:
 if video:
     video.release()
 pygame.quit()
-pygame.quit()
+
 
